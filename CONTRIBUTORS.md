@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [AMIT CHAMBIAL](https://github.com/devaman)
+- Place: PUNJAB,INDIA
+- Bio: COMPUTER GEEK
+- GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
