@@ -2112,6 +2112,11 @@ Noida
 - Bio: Computer Science Student / Free Code Camper
 - GitHub: [huntleyreep](https://github.com/huntleyreep)
 
+#### Name: [Sneha Giranje](https://github.com/snehagiranje)
+- Place: Pune, India
+- Bio: Sofware Developer, JAVA
+- GitHub: [snehagiranje](https://github.com/snehagiranje)
+
 #### Name: [Snehil Verma](https://github.com/vsnehil92)
 - Place: Delhi, India
 - Bio: Love to learn new technologies
